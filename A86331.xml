@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter or word of advice to the saints known or unknown. By Thomas Hickes, the elder.</title>
+            <author>Hicks, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86331</idno>
+            <idno type="STC">Wing H1883</idno>
+            <idno type="STC">Thomason E723_1</idno>
+            <idno type="STC">ESTC R207231</idno>
+            <idno type="EEBO-CITATION">99866297</idno>
+            <idno type="PROQUEST">99866297</idno>
+            <idno type="VID">166766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166766)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E723[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter or word of advice to the saints known or unknown. By Thomas Hickes, the elder.</title>
+                  <author>Hicks, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Domini, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166766:1" rendition="simple:additions"/>
+            <p>A LETTER <hi>OR</hi> WORD OF ADVICE TO THE SAINTS Known or unknown.</p>
+            <p>
+               <hi>By</hi> Thomas Hickes, <hi>the elder.</hi>
+            </p>
+            <figure>
+               <head>ALTIMUS SAPERE NOLI</head>
+               <figDesc>depiction of man under tree</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Domini,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166766:2"/>
+            <pb n="1" facs="tcp:166766:2"/>
+            <head>A word of advice to the Saints known or unknown.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Thought it good, my loving brethren, whom I love in ſincerity of heart, in and for Chriſt Je<g ref="char:EOLhyphen"/>ſus ſake, and all the Saints univerſal and mili<g ref="char:EOLhyphen"/>tant hete upon earth, and therefore I thought it good to ſpeak a word of advice to the Saints out of the Word of God, which the true Saints will be willing to hear, about Baptizing of Children, and the Sacrament of the Lords Supper, of the Baptiſm of Children.</p>
+            <p>Firſt, in the laſt Chapter of Saint <hi>Matthew,</hi> the nine<g ref="char:EOLhyphen"/>teenth Verſe: our Saviour commands his Apoſtles to go teach all Nations, baptizing them in the Name of the Fa<g ref="char:EOLhyphen"/>ther, and the Son, and of the Holy Ghoſt, a general com<g ref="char:EOLhyphen"/>mand to all Nations, teaching them to obſerve all things that Chriſt Jeſus commanded them now. Chriſt Jeſus had taught them that they ſhould not keep little children from him, he was diſpleaſed when they did; and he com<g ref="char:EOLhyphen"/>manded them to be brought unto him, and he laid his hands on them, and bleſt them; and ſaid of ſuch is the kingdom of heaven: let us obey Chriſt Jeſus command, and be charitable to the ſouls of our little children, and bring them to Chriſt's Congregations to be baptized and
+<pb n="2" facs="tcp:166766:3"/>
+prayed for. The words of our Saviour Chriſt Jeſus in the third of Saint <hi>John,</hi> the fifth Verſe, Chriſt Jeſus ſaith, Verily, verily I ſay unto you, Except a man be born of Water and of the Spirit, he cannot enter into the King<g ref="char:EOLhyphen"/>dome of God. This verily, verily, of our Saviour ſhould make the upright hearted Saints to be careful of the ſouls of their children, and to have them baptized and prayed for.</p>
+            <p>Was the Lord about to kill <hi>Moſes,</hi> for not Circumci<g ref="char:EOLhyphen"/>zing his ſon, which was the Jewiſh covenant, and will not God be angry with you for neglecting the Covenant of Grace in the ſeventeenth Chapter of <hi>Geneſis,</hi> the ſecond Verſe, And God ſaid unto <hi>Abraham,</hi> thou ſhalt keep my Covenant therefore, and thy ſeed after thee in their ge<g ref="char:EOLhyphen"/>nerations, the tenth Verſe. This is my Covenant which you ſhall keep between me and you, every male childe a<g ref="char:EOLhyphen"/>mong you ſhall be circumcized, and you ſhall circumcize the fleſh of your fore-skins, and it ſhall be a token of the Covenant between me and you, and he that is eight dayes old ſhall be circumcized, every man-childe in your generations, he that is born in thy houſe, or bought with money of any ſtranger which is not of thy ſeed, he that is born in thy houſe, and he that is bought with money muſt needs be circumcized, and my Covenant ſhall be in your fleſh for an everlaſting Co<g ref="char:EOLhyphen"/>venant: fourteen Verſe. And the uncircumcized man childe, whoſe fleſh of his fore-skin is not circumcized, that ſoul ſhall be cut off from his people, he hath broken my Covenant. Now you ſee this heavie burthen which was laid on the people of God before Chriſt, but now taken away by the Covenant of grace, the fifteenth of the <hi>Acts</hi> and the eleventh Verſe, But we believe that through
+<pb n="3" facs="tcp:166766:3"/>
+the grace of the Lord Jeſus, we ſhall be ſaved as well as they, now God forbid, but that our Children ſhould be within the Covenant of grace as well as we: <hi>Corinthians</hi> the ſeventh Chapter and the fourteenth Verſe. Saint <hi>Paul</hi> faith, The children of Believers are holy: the ſecond Commandement, God will ſhew mercy unto thouſands of them that love him and keep his Commandements. The hundred and ſecond Pſalme, the laſt Verſe, the chil<g ref="char:EOLhyphen"/>dren of thy ſervants ſhall continue, and their ſeed ſhall be eſtabliſhed for ever. The hundred and third Pſalm, the ſeventeenth Verſe, But the mercy of the Lord is from e<g ref="char:EOLhyphen"/>verlaſting to everlaſting, upon them that fear him, and his righteouſneſs unto childrens children.</p>
+            <p>The Lord ſanctified the Prophet <hi>Jeremiah</hi> from his mothers wombe, and the Lord loved King <hi>Solomon</hi> when he was a childe, in the 14 Chapter of the firſt Book of <hi>Kings,</hi> And all <hi>Iſrael</hi> ſhall mourn for him, and bury him, For he only of <hi>Jeroboam</hi> ſhall come to the grave, becauſe in him is ſome good things toward the Lord God of <hi>Iſ<g ref="char:EOLhyphen"/>rael.</hi> But again, obſerve the new covenant <hi>Hebrews</hi> the eighth Chapter, and the eighth Verſe, Behold, the day is come ſaith the Lord, When I will make a new Covenant with the houſe of <hi>Iſrael,</hi> and the houſe of <hi>Judah</hi> the tenth Verſe. For this is the Covenant that I will make with the houſe of <hi>Iſrael,</hi> after thoſe dayes, ſaith the Lord, I will put my laws into their minde, and write them in their hearts, and I will be to them a God, and they ſhall be to me a people. Why, then let us have a care to have our children baptized, Gods promiſe is to us and to our children. Our Saviour Chriſt Jeſus ſhed both water and bloud for our ſins upon the croſs, let us then bring our children to be baptized, and let the parents and the Congre<g ref="char:EOLhyphen"/>gation
+<pb n="4" facs="tcp:166766:4"/>
+pray, that their ſins of original guiltineſs be waſh<g ref="char:EOLhyphen"/>ed away, and nothing doubting of the mercy of our hea<g ref="char:EOLhyphen"/>venly Father in Chriſt Jeſus, he called them unto him, and whoſoever received the Kingdom of Heaven, muſt receive it as a little childe, and ſo I leave of writing of this firſt Sacrament, deſiring God to bleſs his good Word unto us.</p>
+            <p>And now I come to write ſomething of the Sacra<g ref="char:EOLhyphen"/>ment of the Lord Supper, of which I am confident, there are many thouſands about this City of <hi>London,</hi> that have not received it this ſeven or eight yeers: this forceth me in love to write to the Churches of Chriſt Jeſus, to re<g ref="char:EOLhyphen"/>member them of theſe two Sacraments, which Chriſt Je<g ref="char:EOLhyphen"/>ſus hath left for our good to remember his death, until he come to judge the quick and the dead. It is a ſoul devou<g ref="char:EOLhyphen"/>ring ſin to deſpiſe and undervalue the Sacrament of the Lords Supper.</p>
+            <p>All the Families of Gods people, the <hi>Jews</hi> were by God commanded to eat the Paſchal Lambe, the twelfth Chapter of <hi>Exodus</hi> the third verſe. This Paſchal Lambe was but a type and figure of Chriſt Jeſus the Lambe of God, which taketh away the ſins of the World. Chriſt is the living bread which came down from heaven, If any man eat of this Bread, he ſhall live for ever, and the bread that I will give is my fleſh, which I will give for the life of the World, The ſixth of Saint <hi>John</hi> the 52, 53. Then Jeſus ſaid unto them, Veri<g ref="char:EOLhyphen"/>ly, verily, I ſay unto you, Except ye eat the fleſh of the Son of man, and drink his bloud, you have no life in you. For my fleſh is meat indeed, and my bloud is drink in<g ref="char:EOLhyphen"/>deed. Who ſo eateth my fleſh and drinketh my bloud, hath eternal life, and I will raiſe him up at the laſt day, 63 verſe, It is the Spirit that quickeneth the fleſh profiteth
+<pb n="5" facs="tcp:166766:4"/>
+nothing, the words that I ſpeak unto you, they are ſpirit, and they are life, in the 26 Chapter of S. <hi>Matthew,</hi> and the 26, 27 verſes, and when they were eating, Jeſus took bread and bleſſed it, &amp; brake it, and gave it to his Diſciples, and ſaid, Take, eat, This is my body, and he took the Cup, and gave thanks, and gave it unto them, ſaying, Drink ye all of it. For this is my bloud of the New Teſtament which is ſhed for many, for the remiſſion of ſins, in Saint <hi>Luke</hi> the 22 Chapter, 19 and 20 verſes, and he took bread and gave thanks, and brake it, and gave it unto them, ſaying, This is my body which is given for you, This do in remembrance of me, likewiſe alſo the Cup after Sup<g ref="char:EOLhyphen"/>per, ſaying, This Cup is the New Teſtament, in my blood which is ſhed for you. The 14 Chapter of Saint <hi>Mark,</hi> the 22 and 23 verſes, and as he did eat, Jeſus took bread and bleſſed it, and brake it, and gave to them, and ſaid, Take, eat, This is my body, and he took the Cup, and when he had given thanks, he gave to them, and they all drank of it, and he ſaid, This is my bloud of the New Teſtament, which is ſhed for many, Chriſt Jeſus hath ſhed his bloud for many: then come dear brethren, to the table of the Lord Jeſus with faith and repentance. Come to the Word of God preached by his Miniſters, their lips will increaſe thy knowledge. Read the Word of God, and try your faith, pray with humility often. Uſe all Gods Ordinances as well as one. Let the weak in faith come to the Sacrament as well as the ſtrong, the Sacra<g ref="char:EOLhyphen"/>ment is a ſoul ſtrengthening Ordinance, it is a growing Ordinance, it is an Ordinance if it be quickened with the ſpirit of faith, it ſeals and aſſures us of the forgiveneſſe of all our ſins, then let not houſ-keepers neglect it ſeven or eighe yeers together, but prepare themſelves, and let not
+<pb n="6" facs="tcp:166766:5"/>
+young men and maids ſtay till they are five and twenty yeers old, and never prepare themſelves to receive the Sa<g ref="char:EOLhyphen"/>crament, and ſo become ſottiſh and fooliſh in ſpiritual things: therefore I humbly deſire and requeſt the Mini<g ref="char:EOLhyphen"/>ſters and Over-ſeers of Pariſhes and Churches to have a care of the ſouls of theſe people, ſome hath more then o<g ref="char:EOLhyphen"/>thets, the Lord reward them, in <hi>S. Matthew</hi> the 20 Chap<g ref="char:EOLhyphen"/>ter and the ninth verſe, Chriſt ſaith to his Miniſters, Go yee therefore into the high-wayes, and as many as you finde bring them to the Marriage: ſo thoſe ſervants went out into high-wayes, and gathered all, as many as they found both bad and good, and the Wedding was furniſh<g ref="char:EOLhyphen"/>ed with gueſts, and when the King came to ſee the gueſts, he ſaw there a man which had not on a wedding garment. Chriſt knows beſt the wicked and ungodly men, let not us judge our brother where we have no witneſs, and do not know nothing our ſelves. If ſinful <hi>Zacheus,</hi> or ſin<g ref="char:EOLhyphen"/>ful <hi>Mary Magdalen,</hi> will come to their Father with faith, love, and repentance; let us not be like the elder brother of the Prodigal ſon to grudge at it, <hi>Luke</hi> 15.28 verſe. Ho, every one that thirſteth, come ye to the water of life, and he that hath no money, come ye buy and eat, come buy wine and milk without money, and without price, <hi>Eſay</hi> 50.1. Our Saviour Chriſt came to ſeek &amp; ſave them that were loſt, and there is joy in heaven of on ſinner that repenteth, then let us forſake our ſins, and ſeek out the communion of Saints, and minde heavenly reſt and joy more then we have. God ſo loved the world that he gave his only begotten Son for it, that whoſoever believed in him might not periſh, but have everlaſting life and happi<g ref="char:EOLhyphen"/>neſs: to the which everlaſting life, the Lord God of his infinite mercy bring us through Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
